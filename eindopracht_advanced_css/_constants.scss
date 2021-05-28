@@ -1,0 +1,13 @@
+/* Variabelen */
+$page-background: #c3cfe2;
+$testimonial-footer-background: #686de0; 
+$border-color: rgb(121, 112, 112);
+$color-white: #fff;
+
+/* Mixins */
+@mixin flexCenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
